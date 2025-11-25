@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="css/style.css">
+	<meta charset="UTF-8">
+	<title> Persona </title>
+
+
+   
+<header> 
+		<nav> 
+			<div class="logo here"> Logo here</div>
+			<ul class="menu">
+				<li><a href="index.html"> Home</a></li> 
+				<li><a href="about.html"> Persona</a></li> 
+				<li><a href="merch.html"> Merch</a></li>
+				<li><a href="events.html"> Live Events</a></li> 
+			</ul>
+		</nav>
+</header> 
+</head> 
+   
+   
+  <p> <Strong> Persona </Strong> 
+  <br>
+  <br> Name: Micheal 
+  <br>
+  <br> Age: 22 
+  <br>
+  <br> Occupation: Full - time student. Part - time retail sales assisant  
+  <br>
+  <br> Star Sign: Aquarius 
+  <br>
+  <br> Hobbies: Concerts/ live events 
+			<br>Travels a lot to follow bands
+			<br>Gym 
+  <br>
+  <br> Genres: Alternative 
+		  <br> Indie 
+		  <br> Rock 
+		  <br> Metal 
+  <br>
+  <br> <a href="https://careerfoundry.com/en/blog/ux-design/what-is-a-persona/"> About Personas</a> 	
+
+
+  </p> 
+ 
+ </body> 
+ </html>
