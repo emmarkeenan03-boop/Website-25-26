@@ -6,6 +6,28 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
+<body>
 
+
+	<header class="main_header"> 
+		<nav class="mainnav"> 
+			<div class="logo"><img src="images/florence1.jpg"  alt="Florance and The machine singing" title="Florance"> </div>
+			<a href="index.html">Home</a> 
+			<a href="about.html">Persona</a> 
+			<a href="merch.html">Merch</a>
+			<a href="events.html" class="active">Live Events</a>
+		</nav>
+		<h1>Events</h1>
+	</header> 
+
+
+
+	<footer> 
+		<p>Author: Emma Keenen</p>
+		<p><a href="mailto:D00279550@student.dkit.ie" target="_blank">Mail me here</a></p>
+	</footer>
+
+
+</body>
 
 </html> 
