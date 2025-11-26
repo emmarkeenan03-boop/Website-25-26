@@ -4,22 +4,81 @@
 	<link rel="stylesheet" href="css/style.css">
 	<meta charset="UTF-8">
 	<title> Persona </title>
-
-
-   
-<header> 
-		<nav> 
-			<div class="logo here"> Logo here</div>
-			<ul class="menu">
-				<li><a href="index.html"> Home</a></li> 
-				<li><a href="about.html"> Persona</a></li> 
-				<li><a href="merch.html"> Merch</a></li>
-				<li><a href="events.html"> Live Events</a></li> 
-			</ul>
-		</nav>
-</header> 
 </head> 
    
+<body>
+
+
+	<header class="main_header"> 
+		<nav class="mainnav"> 
+			<div class="logo"><img src="images/florence1.jpg"  alt="Florance and The machine singing" title="Florance"> </div>
+			<a href="index.html">Home</a> 
+			<a href="about.html" class="active">Persona</a> 
+			<a href="merch.html">Merch</a>
+			<a href="events.html">Live Events</a>
+		</nav>
+
+		<h1>Persona</h1>
+	</header> 
+
+
+	<h2>Personas</h2>
+	<p>When creating this persona I used the careerfoundry site to guide me, click the link below:</p>
+	<a href="https://careerfoundry.com/en/blog/ux-design/what-is-a-persona/">About Personas</a> 
+	
+	<h2>Persona Video</h2>
+	<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DvV7ZcRVQ4g?si=pNQYq3fJ6deu6fSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+	<table>
+		<tr>
+		  <th style="width: 20%;">Image</th>
+		  <th style="width: 40%;">Bio</th>
+		  <th style="width: 40%;">About</th>
+		</tr>
+		<tr>
+		  <td><img src="images/michael_profile.jpeg"></td>
+		  <td>
+			<p>Name: Micheal </p> 
+			<p>Age: 22</p> 
+			<p>Occupation: Full - time student. Part - time retail sales assisant</p>
+			<p>Star Sign: Aquarius</p> 
+			<p>Hobbies: 
+				
+				<ul>
+					<li>Concerts/live events</li> 
+					<li>Travels a lot to follow bands</li>
+					<li>Gym</li> 
+				</ul>
+			</p>
+		
+			<p> Genres: 
+				<ul>
+					<li>Alternative</li> 
+					<li> Indie </li>
+					<li> Rock </li>
+					<li> Metal </li>
+				</ul>
+			</p>
+
+		  </td>
+		  <td>
+			My life right now is a constant balancing act—I'm a full-time student trying to finish up my degree, which keeps me pretty busy during the week, and I work on the weekends to keep my budget from sinking. But that hustle is what funds the things I truly care about: travel and my camera. I live for discovering new places, capturing those moody, candid moments, and getting lost in the sound of some great indie music. Ultimately, the plan is to ditch the textbooks and turn my photography into a career; every late-night editing session and saved-up travel fund is just a step toward that goal.
+		  </td>
+		</tr>
+		
+	  </table>
+
+
+
+<footer> 
+	<p>Author: Emma Keenen</p>
+	<p><a href="mailto:D00279550@student.dkit.ie" target="_blank">Mail me here</a></p>
+</footer>
+ 
+ </body> 
+ </html>
    
   <p> <Strong> Persona </Strong> 
   <br>
