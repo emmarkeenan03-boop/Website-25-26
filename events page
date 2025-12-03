@@ -20,7 +20,142 @@
 		<h1>Events</h1>
 	</header> 
 
+<table>
+		<tr>
+		  <th style="width: 30%;">Date</th>
+		  <th style="width: 30%;">Venue</th>
+		  <th style="width: 30%;">Place</th>
+		  <th style="width: 30%;">Supporter</th>
+		</tr>
+		<tr>
+		  <td>
+			<p>Feb 6, 2026</p> 
+			<p>Feb 8, 2026</p> 
+			<p>Feb 9, 2026</p>
+			<p>Feb 11, 2026</p> 
+			<p>Feb 13, 2026</p>
+			<p>Feb 14, 2026</p>
+			<p>Feb 16, 2026</p>
+			<p>Feb 17, 2026</p>
+			<p>Feb 20, 2026</p>
+			<p>Feb 22, 2026</p>
+			<p>Feb 23,2026</p>
+			<p>Feb 25, 2026</p> 
+			<p>Feb 26,2026</p>
+			<p>Mar 2, 2026</p>
+			<p>Mar 4, 2026</p>
+			<p>Mar 5, 2026</p>
+			<p>Mar 7, 2026</p>
+			<p>Mar 9, 2026</p>
+			<p>Jun 27, 2026</p>
+			<p>Jun 28, 2026</p>
+			<p>Jul 3, 2026</p>
+			<p>Jul 9, 2026</p>
+			<p>Jul 11, 2026</p>
+			<p>Jul 14, 2026</p>
+			<p>Aug 24, 2026</p>
+			<p>Aug 28, 2026</p>
+			<p>Aug 30, 2026</p>
+			
+			</td>
+		  <td>
+			<p>The SSE Arena, Belfast</p>
+			<p>Bp pulse LIVE</p>
+			<p>OVO Hydro</p>
+			<p>Utilita Arena Newcastle</p>
+			<p>M&S Bank Arena Liverpool</p>
+			<p>Utilita Arena Sheffield</p>
+			<p>The O2</p>
+			<p>The O2</p>
+			<p>Co-op Live</p>
+			<p>ACCOR Arena</p>
+			<p>AFAS Dome</p>
+			<p>Ziggo Dome</p>
+			<p>LANXESS Arena</p>
+			<p>Wiener Stadthalle</p>
+			<p>Olympiahalle</p>
+			<p>02 Arena</p>
+			<p>TAURON Arena Kraków</p>
+			<p>Uber Arena</p>
+			<p>Thormond Park Stadium</p>
+			<p>Marlay Park</p>
+			<p>IDays Festival</p>
+			<p>Mad Cool Festival</p>
+			<p>NOS Alive</p>
+			<p>Ejekt Festival</p>
+			<p>Royal Highland Showgrounds</p>
+			<p>Bramham Park</p>
+			<p>Riachfield Avenue</p>
+			
+			</td>
+		  <td>
+		    <p>Belfast, UK</p>
+		    <p>Birmingham, UK</p>
+			<p>Galsgow, UK</p>
+			<p>Newcastle Upon Tyne, UK</p>
+			<p>Liverpool, Uk</p>
+			<p>Sheffield, UK</p>
+			<p>London, UK</p>
+			<p>London, UK</p>
+			<p>Manchester, UK</p>
+			<p>Paris, France</p>
+			<p>Merksem (Antwerpen)</p>
+			<p>Amsterdam</p>
+			<p>Cologne, NRW</p>
+			<p>Vienna, Austria</p>
+			<p>Munich, Germany</p>
+			<p>Praha 9</p>
+			<p>Kraków</p>
+			<p>Berlin</p>
+			<p>Limerick, Ireland</p>
+			<p>Dublin, Ireland</p>
+			<p>Milan, Italy</p>
+			<p>Madrid, Spain</p>
+			<p>Lisbon, Portugal</p>
+			<p>Athens</p>
+			<p>Edinburgh, UK</p>
+			<p>Leeds, UK</p>
+			<p>Reading, UK</p>
+			</td>
+		
+		  <td>
+		    <p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p> Paris Paloma</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			<p>CMAT</p>
+			</td>
+			
+			
+		  
+		</tr>
+		
+		
+	  </table>
 
+<a href="https://www.ticketmaster.ie/search?q=Florence+and+The+Machine&sort=date" target="_blank">Click here for ticketmaster tickets!</a> 
 
 	<footer> 
 		<p>Author: Emma Keenen</p>
