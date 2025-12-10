@@ -20,6 +20,7 @@
 		<h1>Events</h1>
 	</header> 
 
+
 <table>
 		<tr>
 		  <th style="width: 30%;">Date</th>
@@ -131,12 +132,6 @@
 			<p> Paris Paloma</p>
 			<p> Paris Paloma</p>
 			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
-			<p> Paris Paloma</p>
 			<p>CMAT</p>
 			<p>CMAT</p>
 			<p>CMAT</p>
@@ -154,8 +149,12 @@
 		
 		
 	  </table>
+	  
+	
+
 
 <a href="https://www.ticketmaster.ie/search?q=Florence+and+The+Machine&sort=date" target="_blank">Click here for ticketmaster tickets!</a> 
+
 
 	<footer> 
 		<p>Author: Emma Keenen</p>
