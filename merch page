@@ -19,9 +19,65 @@
 	<h1>Merch</h1>
 </header> 
 
+<table>
+
+	<tr>
+		<th style="width: 20%"> </th> 
+		<th style="width: 20%"> </th> 
+		<th style="width: 20%"> </th> 	
+		<th style="width: 20%"> </th> 
+	</tr> 
+	<tr>
+		<td> 
+		<img src="images/merch1.jpg">
+		<p> Maroon Hoodie </p>
+		<p> £60 </p>
+		<br> 
+		<br>
+		<img src="images/vinyl1.jpg">
+		<p> Everybody Scream: Red vinyl </p>
+		<p> £35 </p>
+		</td>
+		
+		<td>
+		<img src="images/merch2.jpg">
+		<p> Black Sweatshirt</p>
+		<p> £50 </p>
+		<br>
+		<br>
+		<img src="images/vinyl3.jpg">
+		<p> Everybody Scream: Ultimate collection vinyl</p>
+		<p> £50 </p>
+		</td> 
+		
+		<td>
+		<img src="images/merch3.jpg">
+		<p> Lungs T-Shirt </p>
+		<p> £40 </p>
+		<br> 
+		<br> 
+		<img src="images/vinyl2.jpg">
+		<p> How Big, How Blue, How Beautiful: Blue Vinyl </p>
+		<p> £35 </p>
+		</td> 
+		
+		<td> 
+		<img src="images/merch4.jpg">
+		<p> Symphony of Lungs: Tote bag</p>
+		<p> £20</p>
+		<br> 
+		<br> 
+		<img src="images/vinyl4.jpg">
+		<p> Lungs: Black vinyl</p>
+		<p> £35 </p>
+		</td>
+		
 
 
 
+	
+
+</table> 
 <footer> 
 	<p>Author: Emma Keenen</p>
 	<p><a href="mailto:D00279550@student.dkit.ie" target="_blank">Mail me here</a></p>
@@ -29,4 +85,4 @@
 
 </body>
 
-</html>
+</html> 
